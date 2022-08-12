@@ -1,0 +1,11 @@
+[
+  { "id": 1, "isAvailable": true, "timeBlock": "9-10" },
+  { "id": 2, "isAvailable": true, "timeBlock": "10-11" },
+  { "id": 3, "isAvailable": true, "timeBlock": "11-12" },
+  { "id": 4, "isAvailable": true, "timeBlock": "12-13" },
+  { "id": 5, "isAvailable": true, "timeBlock": "13-14" },
+  { "id": 6, "isAvailable": true, "timeBlock": "14-15" },
+  { "id": 7, "isAvailable": true, "timeBlock": "15-16" },
+  { "id": 8, "isAvailable": true, "timeBlock": "16-17" },
+  { "id": 9, "isAvailable": true, "timeBlock": "17-18" }
+]
